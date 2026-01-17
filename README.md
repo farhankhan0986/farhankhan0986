@@ -2,7 +2,7 @@
 
 **Target Audience:** Recruiters, hiring managers, and developers looking for a **Full-Stack (MERN) / Backend-focused Engineer**
 
-🚀 Software Developer & MERN Stack Engineer passionate about building **scalable backend systems**, **secure REST APIs**, and **production-ready full-stack applications**.  
+🚀 Software Developer & Full Stack Engineer (MERN + Next.js) passionate about building **scalable backend systems**, **secure REST APIs**, and **production-ready full-stack applications**.  
 💡 Strong focus on Node.js, MongoDB, authentication flows, and clean architecture — with hands-on experience shipping real projects and internships.  
 📈 Continuously improving in system design, cloud deployment, and DSA.
 
@@ -29,6 +29,7 @@
 **Frontend**
   
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?logo=bootstrap)
 
@@ -59,29 +60,33 @@
 
 ---
 
-### 🌍 Tripify – Travel Booking Web Application
-**Tech:** React, Node.js, Express, MongoDB  
+### 🌍 JourneyJet – Travel Booking Web Application
+**Tech:** React, TypeScript, Supabase  
 - Full-stack travel platform with search, booking, and admin workflows  
-- Designed REST APIs and handled backend logic during internship  
-- Optimized database queries and API responses  
-🔗 **Repo:** https://github.com/farhankhan0986/tripify
+- Worked on production-deployed features and application logic during internship  
+- Integrated Supabase for authentication, database, and backend services  
+- Focused on performance, data handling, and clean UI workflows  
+🔗 **Repo:** https://github.com/farhankhan0986/journeyjet-site
 
 ---
 
-### 📄 Resume Builder & Job Utilities
-**Tech:** React, Tailwind, Node.js  
-- Web app to generate and manage professional resumes  
-- Clean UI with dynamic data handling and validation  
-- Backend-ready architecture for future scaling  
-🔗 **Repo:** https://github.com/farhankhan0986
+### 🔍 HireSight – Job Search & Candidate Insights Platform
+**Tech:** React, Tailwind CSS, Node.js, Express, MongoDB  
+- Web platform focused on job discovery and candidate insights  
+- Built dynamic, responsive UI with efficient data handling  
+- Designed scalable backend APIs with clean architecture  
+- Optimized for future feature expansion and analytics  
+🔗 **Repo:** https://github.com/farhankhan0986/hiresight
 
 ---
 
-## 🧩 Notable Contributions
-- Completed **6-month Web Developer Internship** at **Tripify Pvt. Ltd.**
-- Worked on real production codebases and backend APIs  
-- Regularly practice SQL, DSA, and backend problem-solving  
-- Actively improving system design fundamentals
+### 🧩 Notable Experience
+- Currently working as a **Web Developer Intern at Tripify Pvt. Ltd.**
+- Working on **production-deployed features** used in live environments  
+- Assisting in building and maintaining **backend APIs** and full-stack modules  
+- Collaborating with team members on debugging, testing, and performance improvements  
+- Regularly practicing SQL, DSA, and backend problem-solving  
+- Learning system design fundamentals and scalable backend architecture
 
 ---
 
@@ -113,15 +118,6 @@
 - 🔄 Improving backend performance & API structure
 - ☁️ Learning AWS deployment & cloud fundamentals
 - 🧠 Practicing DSA & SQL for interviews
-
----
-
-## ✨ Optional Enhancements (Recommended)
-- Pin top 3 repositories on your GitHub profile  
-- Add a **project demo link** (Vercel/Netlify) where possible  
-- Update “Latest Work” monthly  
-- Add GitHub Actions badge if CI is used  
-- Keep README concise — let projects prove depth
 
 ---
 
