@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Farhan Abid
 
-**Target Audience:** Recruiters, hiring managers, and developers looking for a **Full-Stack (MERN) / Backend-focused Engineer**
-
 🚀 Software Developer & Full Stack Engineer (MERN + Next.js) passionate about building **scalable backend systems**, **secure REST APIs**, and **production-ready full-stack applications**.  
 💡 Strong focus on Node.js, MongoDB, authentication flows, and clean architecture — with hands-on experience shipping real projects and internships.  
 📈 Continuously improving in system design, cloud deployment, and DSA.
