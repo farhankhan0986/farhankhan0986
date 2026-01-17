@@ -44,6 +44,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render)
 
@@ -57,6 +58,7 @@
 - Implemented role-based authentication and protected APIs  
 - Focused on backend validation, security, and scalability  
 🔗 **Repo:** https://github.com/farhankhan0986/idvault
+🌍 **Live:** https://id-vault.vercel.app/
 
 ---
 
@@ -76,7 +78,7 @@
 - Built dynamic, responsive UI with efficient data handling  
 - Designed scalable backend APIs with clean architecture  
 - Optimized for future feature expansion and analytics  
-🔗 **Repo:** https://github.com/farhankhan0986/hiresight
+🔗 **Repo:** https://github.com/farhankhan0986/
 
 ---
 
@@ -116,7 +118,7 @@
 
 ## 🧭 Latest Work
 - 🔄 Improving backend performance & API structure
-- ☁️ Learning AWS deployment & cloud fundamentals
+- ☁️ Learning AWS deployment, Azure deployment & cloud fundamentals
 - 🧠 Practicing DSA & SQL for interviews
 
 ---
