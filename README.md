@@ -57,9 +57,10 @@
 - Built a secure system for managing and verifying digital identity documents  
 - Implemented role-based authentication and protected APIs  
 - Focused on backend validation, security, and scalability  
-📦 **Repository:** https://github.com/farhankhan0986/idvault  
-🚀 **Live Demo:** https://id-vault.vercel.app/
-
+- Applied input validation, error handling, and secure data flows  
+- Designed with modular architecture for easier maintenance and scaling  
+🔗 **Repo:** https://github.com/farhankhan0986/idvault  
+🌍 **Live:** https://id-vault.vercel.app/
 
 ---
 
