@@ -96,12 +96,15 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhankhan0986&theme=noctis_minimus&hide_border=true&show_icons=true" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=farhankhan0986&theme=noctis_minimus&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=farhankhan0986&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhan0986&layout=compact&theme=noctis_minimus&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=farhankhan0986&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhan0986&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
