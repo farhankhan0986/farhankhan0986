@@ -103,15 +103,24 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhankhan0986&show_icons=true&theme=dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=farhankhan0986&show_icons=true&theme=dark&hide_border=true"
+    alt="Farhan's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=farhankhan0986&theme=dark&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=farhankhan0986&theme=dark&hide_border=true"
+    alt="Farhan's GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhan0986&layout=compact&theme=dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhan0986&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
