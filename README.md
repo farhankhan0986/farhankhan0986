@@ -78,7 +78,7 @@
 - Built dynamic, responsive UI with efficient data handling  
 - Designed scalable backend APIs with clean architecture  
 - Optimized for future feature expansion and analytics  
-🔗 **Repo:** https://github.com/farhankhan0986/
+🔗 **Repo:** https://github.com/farhankhan0986/hiresight-ai
 
 ---
 
