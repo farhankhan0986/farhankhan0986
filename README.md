@@ -16,19 +16,18 @@
 ---
 
 🛠 Tech Stack
-💻 Languages
+💻 Programming Languages
 <p> <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" /> </p>
-🎯 Core CS
-<p> <img src="https://skillicons.dev/icons?i=linux,git,github" /> </p>
-🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" /> </p>
-⚙️ Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
+🎨 Frontend Development
+<p> <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,redux" /> </p>
+⚙️ Backend Development
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,firebase" /> </p>
 🗄️ Databases
 <p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /> </p>
-☁️ Cloud & Tools
-<p> <img src="https://skillicons.dev/icons?i=aws,azure,vercel,render,postman" /> </p>
-
+☁️ Cloud & Deployment
+<p> <img src="https://skillicons.dev/icons?i=aws,azure,vercel,render,netlify,docker" /> </p>
+🛠 Tools & Environment
+<p> <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" /> </p>
 ---
 
 ## 🚀 Featured Projects
