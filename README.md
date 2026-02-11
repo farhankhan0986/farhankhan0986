@@ -15,7 +15,7 @@
 
 ---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 💻 Programming Languages
 <p> <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" /> </p>
