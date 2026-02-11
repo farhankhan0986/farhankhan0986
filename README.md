@@ -16,6 +16,7 @@
 ---
 
 🛠 Tech Stack
+
 💻 Programming Languages
 <p> <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" /> </p>
 🎨 Frontend Development
@@ -28,6 +29,8 @@
 <p> <img src="https://skillicons.dev/icons?i=aws,azure,vercel,render,netlify,docker" /> </p>
 🛠 Tools & Environment
 <p> <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" /> </p>
+
+
 ---
 
 ## 🚀 Featured Projects
