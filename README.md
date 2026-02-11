@@ -15,36 +15,19 @@
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages & Core**
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-333?logo=javascript)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
-
-**Frontend**
-  
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?logo=bootstrap)
-
-**Backend**
-  
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js)
-![Express](https://img.shields.io/badge/Express-404d59?logo=express)
-![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens)
-
-**Databases & Cloud**
-  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render)
+🛠 Tech Stack
+💻 Languages
+<p> <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" /> </p>
+🎯 Core CS
+<p> <img src="https://skillicons.dev/icons?i=linux,git,github" /> </p>
+🎨 Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" /> </p>
+⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
+🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /> </p>
+☁️ Cloud & Tools
+<p> <img src="https://skillicons.dev/icons?i=aws,azure,vercel,render,postman" /> </p>
 
 ---
 
