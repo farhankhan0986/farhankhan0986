@@ -1,127 +1,200 @@
-# 👋 Hi, I'm Farhan Abid
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=850&lines=Hey+%F0%9F%91%8B%2C+I'm+Farhan+Abid;Full+Stack+Developer+%7C+MERN+%2B+Next.js;Building+Scalable+Backend+Systems;Passionate+About+Clean+Architecture" alt="Typing SVG" />
+</h1>
 
-🚀 Software Developer & Full Stack Engineer (MERN + Next.js) passionate about building **scalable backend systems**, **secure REST APIs**, and **production-ready full-stack applications**.  
-💡 Strong focus on Node.js, MongoDB, authentication flows, and clean architecture — with hands-on experience shipping real projects and internships.  
-📈 Continuously improving in system design, cloud deployment, and DSA.
+<p align="center">
+  <a href="https://linkedin.com/in/farhan-abid-38967a259"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:farhankhan080304@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/_._farhan_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=farhankhan0986&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  🚀 Software Developer & Full Stack Engineer passionate about building <b>scalable backend systems</b>, <b>secure REST APIs</b>, and <b>production-ready full-stack applications</b>.<br/>
+  📈 Continuously improving in system design, cloud deployment, and DSA.
+</p>
 
 ---
 
-## 🧠 Expertise Snapshot
-- Full-Stack Development (MERN)
-- Backend APIs & Architecture
-- Authentication & Authorization (JWT)
-- Database Design (MongoDB, MySQL)
-- Cloud & Deployment (AWS basics, Vercel, Render)
+## 🧑‍💻 About Me
+
+```yaml
+name: Farhan Abid
+role: Full Stack Developer (MERN + Next.js)
+current_position: Web Developer Intern @ Tripify Pvt. Ltd.
+focus_areas:
+  - Scalable Backend Systems & REST APIs
+  - Authentication & Authorization (JWT)
+  - Clean Architecture & Modular Design
+  - Database Design & Optimization
+currently_learning:
+  - AWS & Azure Cloud Deployment
+  - System Design Fundamentals
+  - Advanced DSA & SQL for Interviews
+fun_fact: "I enjoy building complex backend logic more than writing UI — but I can do both. 😄"
+```
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-💻 **Programming Languages**
-<p> <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" /> </p>
-
-🎨 **Frontend Development**
-<p> <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,redux" /> </p>
-
-⚙️ **Backend Development**
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,firebase" /> </p>
-
-🗄️ **Databases**
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /> </p>
-
-☁️ **Cloud & Deployment**
-<p> <img src="https://skillicons.dev/icons?i=aws,azure,vercel,render,netlify,docker" /> </p>
-
-🛠 **Tools & Environment**
-<p> <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" /> </p>
-
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>💻 Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>🎨 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,redux" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>⚙️ Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,firebase" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>🗄️ Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>☁️ Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,azure,vercel,render,netlify,docker" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>🛠️ Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" /></td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 IDVault – Secure Digital Identity Platform
-**Tech:** MERN, JWT, MongoDB, Tailwind  
-- Built a secure system for managing and verifying digital identity documents  
-- Implemented role-based authentication and protected APIs  
-- Focused on backend validation, security, and scalability  
-- Applied input validation, error handling, and secure data flows  
-- Designed with modular architecture for easier maintenance and scaling  
-🔗 **Repo:** https://github.com/farhankhan0986/idvault  
-🌍 **Live:** https://id-vault.vercel.app/
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚒️ PromptForge</h3>
+      <p align="center"><b>AI-Powered Prompt Generator & Manager</b></p>
+      <p align="center">
+        <a href="https://github.com/farhankhan0986/promptforge"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://promptforge-blush.vercel.app"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      </p>
+      <p><b>Tech:</b> React, Node.js, Express, PostgreSQL, Groq AI, Tailwind</p>
+      <ul>
+        <li>Transforms rough ideas into production-grade AI prompts using LLaMA 3.3 70B</li>
+        <li>Save, organize by category & tags, and search your prompt library</li>
+        <li>Analytics dashboard with category distribution & tag breakdowns</li>
+        <li>JWT-based auth with secure account management</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔐 IDVault</h3>
+      <p align="center"><b>Secure Digital Identity Platform</b></p>
+      <p align="center">
+        <a href="https://github.com/farhankhan0986/IDVault"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://id-vault.vercel.app"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      </p>
+      <p><b>Tech:</b> MERN, JWT, MongoDB, Tailwind</p>
+      <ul>
+        <li>Secure system for managing & verifying digital identity documents</li>
+        <li>Role-based authentication with protected API routes</li>
+        <li>Backend validation, error handling & secure data flows</li>
+        <li>Modular architecture for scalable maintenance</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔍 HireSight AI</h3>
+      <p align="center"><b>Job Search & Candidate Insights Platform</b></p>
+      <p align="center">
+        <a href="https://github.com/farhankhan0986/HireSight-AI"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://hire-sight-ai-sigma.vercel.app"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      </p>
+      <p><b>Tech:</b> React, Tailwind, Node.js, Express, MongoDB</p>
+      <ul>
+        <li>Job discovery platform with candidate insights</li>
+        <li>Dynamic, responsive UI with efficient data handling</li>
+        <li>Scalable backend APIs with clean architecture</li>
+        <li>Optimized for future feature expansion & analytics</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛡️ Sentinel Guard</h3>
+      <p align="center"><b>Middleware-First API Firewall & Security Layer</b></p>
+      <p align="center">
+        <a href="https://github.com/farhankhan0986/Sentinel-Guard"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://sentinel-guard-eb9e.vercel.app"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      </p>
+      <p><b>Tech:</b> Next.js, MongoDB, JWT, Edge Middleware</p>
+      <ul>
+        <li>Global API request interception via Edge Middleware</li>
+        <li>Firewall rule engine with IP, method & route filtering</li>
+        <li>Attack detection, threat scoring & automatic IP blocking</li>
+        <li>Security analytics dashboard using MongoDB aggregations</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌍 JourneyJet – Travel Booking Web Application
-**Tech:** React, TypeScript, Supabase  
-- Full-stack travel platform with search, booking, and admin workflows  
-- Worked on production-deployed features and application logic during internship  
-- Integrated Supabase for authentication, database, and backend services  
-- Focused on performance, data handling, and clean UI workflows  
-🔗 **Repo:** https://github.com/farhankhan0986/journeyjet-site
+## 💼 Experience
 
----
+<details>
+<summary><b>🏢 Web Developer Intern — Tripify Pvt. Ltd.</b> (Current)</summary>
+<br/>
 
-### 🔍 HireSight – Job Search & Candidate Insights Platform
-**Tech:** React, Tailwind CSS, Node.js, Express, MongoDB  
-- Web platform focused on job discovery and candidate insights  
-- Built dynamic, responsive UI with efficient data handling  
-- Designed scalable backend APIs with clean architecture  
-- Optimized for future feature expansion and analytics  
-🔗 **Repo:** https://github.com/farhankhan0986/hiresight-ai
-
----
-
-### 🧩 Notable Experience
-- Currently working as a **Web Developer Intern at Tripify Pvt. Ltd.**
-- Working on **production-deployed features** used in live environments  
-- Assisting in building and maintaining **backend APIs** and full-stack modules  
-- Collaborating with team members on debugging, testing, and performance improvements  
-- Regularly practicing SQL, DSA, and backend problem-solving  
+- Working on **production-deployed features** used in live environments
+- Building and maintaining **backend APIs** and full-stack modules
+- Collaborating with team members on debugging, testing, and performance improvements
+- Regularly practicing SQL, DSA, and backend problem-solving
 - Learning system design fundamentals and scalable backend architecture
 
----
-
-## 📬 How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/farhan-abid-38967a259)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://instagram.com/_._farhan_)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:farhankhan080304@gmail.com)
+</details>
 
 ---
 
-## 📊 GitHub Activity
+## 🧠 Expertise Snapshot
+
+| Area | Skills |
+|------|--------|
+| **Full-Stack Development** | MERN Stack, Next.js, TypeScript |
+| **Backend & APIs** | REST API Design, Express.js, Clean Architecture |
+| **Auth & Security** | JWT, Role-based Access, Secure Data Flows |
+| **Database Design** | MongoDB, MySQL, PostgreSQL, Prisma ORM |
+| **Cloud & DevOps** | AWS (basics), Azure, Vercel, Render, Docker |
+| **Currently Learning** | System Design, Advanced DSA, Cloud Deployment |
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-eight-rho-65.vercel.app/api?username=farhankhan0986&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
-    alt="Farhan's GitHub Stats"
-  />
+  <img width="49%" src="https://github-readme-stats-eight-rho-65.vercel.app/api?username=farhankhan0986&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=farhankhan0986&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=farhankhan0986&theme=dark&hide_border=true"
-    alt="Farhan's GitHub Streak"
-  />
+  <img width="40%" src="https://github-readme-stats-eight-rho-65.vercel.app/api/top-langs/?username=farhankhan0986&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+---
+
+## 🧭 What I'm Up To
+
+- 🔄 Improving backend performance & API architecture
+- ☁️ Exploring AWS & Azure cloud deployment strategies
+- 🧠 Practicing DSA & SQL for technical interviews
+- 🏗️ Building new full-stack projects with clean architecture
+- 📚 Learning system design patterns for scalable applications
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-eight-rho-65.vercel.app/api/top-langs/?username=farhankhan0986&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"
-    alt="Top Languages"
-  />
+  <b>💬 Let's connect and build something amazing together!</b><br/>
+  <i>Open to collaborations, freelance work, and exciting opportunities.</i>
 </p>
-
-
-
----
-
-## 🧭 Latest Work
-- 🔄 Improving backend performance & API structure
-- ☁️ Learning AWS deployment, Azure deployment & cloud fundamentals
-- 🧠 Practicing DSA & SQL for interviews
-
----
-
-> *“I enjoy building complex backend logic more than writing UI — but I can do both.”* 😄
