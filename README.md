@@ -141,7 +141,7 @@ fun_fact: "I enjoy building complex backend logic more than writing UI — but I
 ## 💼 Experience
 
 <details>
-<summary><b>🏢 Web Developer Intern — Tripify Pvt. Ltd.</b> (Current)</summary>
+<summary><b>🏢 AI Agent Developer Intern — Tripify Pvt. Ltd.</b> (Current)</summary>
 <br/>
 
 - Working on **production-deployed features** used in live environments
