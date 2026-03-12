@@ -21,7 +21,7 @@
 ```yaml
 name: Farhan Abid
 role: Full Stack Developer (MERN + Next.js)
-current_position: Web Developer Intern @ Tripify Pvt. Ltd.
+current_position: AI Agent Developer Intern @ Tripify Pvt. Ltd.
 focus_areas:
   - Scalable Backend Systems & REST APIs
   - Authentication & Authorization (JWT)
