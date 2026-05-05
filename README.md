@@ -49,7 +49,7 @@ fun_fact: "I enjoy building complex backend logic more than writing UI — but I
   </tr>
   <tr>
     <td align="center" width="140"><b>⚙️ Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,firebase" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase" /></td>
   </tr>
   <tr>
     <td align="center" width="140"><b>🗄️ Databases</b></td>
@@ -57,11 +57,11 @@ fun_fact: "I enjoy building complex backend logic more than writing UI — but I
   </tr>
   <tr>
     <td align="center" width="140"><b>☁️ Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,azure,vercel,render,netlify,docker" /></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,azure,vercel,netlify,docker" /></td>
   </tr>
   <tr>
     <td align="center" width="140"><b>🛠️ Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,ai" /></td>
   </tr>
 </table>
 
