@@ -170,12 +170,14 @@ fun_fact: "I enjoy building complex backend logic more than writing UI — but I
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-rho-65.vercel.app/api?username=farhankhan0986&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=farhankhan0986&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-eight-rho-65.vercel.app/api?username=farhankhan0986&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=farhankhan0986&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img width="40%" src="https://github-readme-stats-eight-rho-65.vercel.app/api/top-langs/?username=farhankhan0986&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-eight-rho-65.vercel.app/api/top-langs/?username=farhankhan0986&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=farhankhan0986&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
