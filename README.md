@@ -92,7 +92,7 @@ fun_fact   : I enjoy debugging production issues more than most people enjoy wee
 
 - Optimizing backend performance and rethinking API design patterns
 - Getting hands-on with AWS and Azure for real deployment experience
-- Grinding DSA and SQL — prepping for technical interviews
+- Grinding DSA and SQL - prepping for technical interviews
 - Building full-stack projects focused on clean, scalable architecture
 - Going deeper into system design: queues, caching, distributed patterns
 
